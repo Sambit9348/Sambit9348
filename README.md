@@ -50,16 +50,10 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzCasr6/giphy.gif" width="30px"> 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambit9348&theme=tokyonight&no-bg=false&no-frame=false&margin-w=15" />
-</p>
-
----
-
 ### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30px"> 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambit9348/Sambit9348/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- The image below will be active AFTER you push these changes and the GitHub Action runs successfully -->
+  <img src="https://raw.githubusercontent.com/Sambit9348/Sambit9348/output/github-contribution-grid-snake-dark.svg?v=4" alt="Snake animation" />
 </p>
 
 ---
@@ -78,12 +72,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sambit9348&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sambit9348&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
+
 
 

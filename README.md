@@ -17,7 +17,7 @@
 ### <img src="https://media.giphy.com/media/WUlxpFcuM2Fp8BQiM1/giphy.gif" width="30px"> <font color="#41E0F7">💫 About Me</font>
 <p align="left">
 <font color="#41E0F7">
-- 🔭 I’m currently working on **Bwareta**<br>
+- 🔭 I’m currently working on **Medhaya**<br>
 - 👯 I’m looking to collaborate on **Next.js & Three.js Projects**<br>
 - 🌱 I’m currently learning **Advanced Three.js, Shader Programming & Backend Scalability**<br>
 - 💬 Ask me about **React, Node.js, .NET or Cloud Architecture**<br>
